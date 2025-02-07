@@ -7,7 +7,7 @@ const firstName = document.getElementById("firstname").value;
 const secondName =document.getElementById("lastname").value;
 const email = document.getElementById("email").value;
 const phoneNumber = document.getElementById("phonenumber").value;
-https://www.svgrepo.com/show/345221/three-dots.svg
-		const message = (`FirstName:${firstName}\n LastName:${last} \n Email:${email}\n PhoneNumber:${number}`); 
+		 
+		const message = (`FirstName:${firstName}\n LastName:${secondName} \n Email:${email}\n Phonenumber:${number}`); 
 	aleart(message);
 	 });					  
